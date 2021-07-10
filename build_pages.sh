@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -e
 
 yarn build
 cp -R build /tmp/smileinspector-build
