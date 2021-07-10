@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# SmileInspector
+SmileInspector is a tool, written in React, that allows the reading and converting of local SmileBASIC files.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It uses the [SBAPI Team's](https://github.com/SBAPI-Team):
+- [SmileBASIC File Parser](https://github.com/SBAPI-Team/SmileBASIC-FileParser)
+- [SBAPI File Converters](https://github.com/SBAPI-Team/SmileBASIC-FileParser)
+
+Simply click the "Upload" button, choose a SmileBASIC format file, and you're all set!
+
+Note that there is probably still bugs, as this is an alpha release.
 
 ## Available Scripts
 

@@ -49,5 +49,6 @@
   "devDependencies": {
     "@types/file-saver": "^2.0.3",
     "serve": "^11.3.2"
-  }
+  },
+  "homepage": "."
 }
