@@ -8,5 +8,5 @@ rm -rf *
 cp -R /tmp/smileinspector-build/* .
 git add .
 git commit -m "New build"
-git push --all origin gh-pages
+git push origin gh-pages
 git checkout master
